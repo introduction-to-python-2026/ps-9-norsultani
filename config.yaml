@@ -1,2 +1,2 @@
-path: "parkinsons_predict.joblib"
+path: "parkinsons_predict2.joblib"
 features: ["MDVP:Jitter(%)", "MDVP:Flo(Hz)"]
